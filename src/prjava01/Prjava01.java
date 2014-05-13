@@ -29,7 +29,8 @@ public class Prjava01 {
             bw.write("    </title>");bw.newLine();
             bw.write("  </head>");bw.newLine();
             bw.write("  <body>");bw.newLine();
-            bw.write("    Nova p&agrave;gina web");bw.newLine();
+            bw.write("    Nova p&agrave;gina web <br>");bw.newLine();
+            bw.write("    Pr&agrave;ctica 2 de la UF4");bw.newLine();
             bw.write("  </body>");bw.newLine();
             bw.write("</html>");bw.newLine();
             bw.close();
